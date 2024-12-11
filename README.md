@@ -1,7 +1,7 @@
 # Federated_Learning_Tutorial
 
 Tutorial and hands-on materials for Federated Learning. These include five main components:  
-1. Slides on Federated and Split Learning  
+1. Slides on Federated Learning  
 2. Slides on Split Learning and Efficient Split Learning  
 3. A simple notebook to demonstrate Federated Learning  
 4. A simple notebook to demonstrate Split Learning  
@@ -9,7 +9,7 @@ Tutorial and hands-on materials for Federated Learning. These include five main 
 
 # Acknowledgments
 
-The content and ideas in this repository are derived in part from the following source:
+The content and ideas for Federated Learning in this repository are derived in part from the following source:
 
 - **"Privacy and Federated Learning: Principles, Techniques, and Emerging Frontiers"**  
   Presented at the AAAI Workshop on Privacy Preserving Artificial Intelligence (PPAI-21).  
