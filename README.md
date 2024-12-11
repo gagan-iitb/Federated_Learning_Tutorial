@@ -16,7 +16,7 @@ The content and ideas in this repository are derived in part from the following 
   Contributors: **Peter Kairouz, Brendan McMahan, and Kallista Bonawitz**, presenting the work of many others.  
   Access the slides [here](https://ppai21.github.io/files/BM_KB_PK-slides.pdf).
 
-We extend our gratitude to the authors for their insightful tutorial on federated learning and privacy.
+We extend our gratitude to the authors for their insightful content on federated learning and privacy.
 
 
 
